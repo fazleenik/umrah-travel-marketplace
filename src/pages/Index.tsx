@@ -9,6 +9,14 @@ const providers = [
     contactNumber: "+60 3-1234 5678",
     website: "https://example.com",
     imageUrl: "https://images.unsplash.com/photo-1565552645632-d725f8bfc19a?auto=format&fit=crop&q=80",
+    bookings: {
+      current: 85,
+      total: 100
+    },
+    rating: 4.8,
+    reviews: [
+      { text: "Excellent service and accommodation", author: "Ahmad S." }
+    ]
   },
   {
     name: "Barakah Tours",
@@ -17,6 +25,14 @@ const providers = [
     contactNumber: "+60 3-8765 4321",
     website: "https://example.com",
     imageUrl: "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80",
+    bookings: {
+      current: 45,
+      total: 50
+    },
+    rating: 4.6,
+    reviews: [
+      { text: "Great family package, very accommodating", author: "Sarah M." }
+    ]
   },
   {
     name: "Rahman Travel & Tours",
@@ -25,6 +41,14 @@ const providers = [
     contactNumber: "+60 3-2468 1357",
     website: "https://example.com",
     imageUrl: "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&q=80",
+    bookings: {
+      current: 72,
+      total: 80
+    },
+    rating: 4.9,
+    reviews: [
+      { text: "Very experienced and professional team", author: "Mohammed R." }
+    ]
   },
   {
     name: "Al-Madinah Travels",
@@ -33,6 +57,14 @@ const providers = [
     contactNumber: "+60 3-9876 5432",
     website: "https://example.com",
     imageUrl: "https://images.unsplash.com/photo-1542442828-287217bfb87f?auto=format&fit=crop&q=80",
+    bookings: {
+      current: 28,
+      total: 30
+    },
+    rating: 4.7,
+    reviews: [
+      { text: "Luxury service worth every penny", author: "Fatima H." }
+    ]
   },
   {
     name: "Taqwa Islamic Tours",
@@ -41,6 +73,14 @@ const providers = [
     contactNumber: "+60 3-3456 7890",
     website: "https://example.com",
     imageUrl: "https://images.unsplash.com/photo-1581012771300-20e80c6c4f10?auto=format&fit=crop&q=80",
+    bookings: {
+      current: 95,
+      total: 100
+    },
+    rating: 4.5,
+    reviews: [
+      { text: "Affordable and well-organized", author: "Yusuf A." }
+    ]
   },
   {
     name: "Zamzam Expeditions",
@@ -49,6 +89,14 @@ const providers = [
     contactNumber: "+60 3-7890 1234",
     website: "https://example.com",
     imageUrl: "https://images.unsplash.com/photo-1570537176120-7c71e8f2c44e?auto=format&fit=crop&q=80",
+    bookings: {
+      current: 65,
+      total: 75
+    },
+    rating: 4.8,
+    reviews: [
+      { text: "Great lectures and spiritual guidance", author: "Aisha K." }
+    ]
   }
 ];
 

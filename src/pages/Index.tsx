@@ -72,7 +72,7 @@ const providers = [
     registrationNumber: "UM234567",
     contactNumber: "+60 3-3456 7890",
     website: "https://example.com",
-    imageUrl: "https://images.unsplash.com/photo-1581012771300-20e80c6c4f10?auto=format&fit=crop&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1537444532052-2afbf769b76c?auto=format&fit=crop&q=80",
     bookings: {
       current: 95,
       total: 100
@@ -88,7 +88,7 @@ const providers = [
     registrationNumber: "UM890123",
     contactNumber: "+60 3-7890 1234",
     website: "https://example.com",
-    imageUrl: "https://images.unsplash.com/photo-1570537176120-7c71e8f2c44e?auto=format&fit=crop&q=80",
+    imageUrl: "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&q=80",
     bookings: {
       current: 65,
       total: 75
